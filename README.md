@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hey!
+
+I have cat and he is not very happy with me.
